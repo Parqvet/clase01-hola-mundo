@@ -1,0 +1,18 @@
+{
+  "name": "03-bases-nodejs",
+  "version": "0.0.1",
+  "description": "Aplicación de lineas de comandos para multiplicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon 03-bases-nodejs/index.js"
+  },
+  "author": "Marcelo Sena",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
